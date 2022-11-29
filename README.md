@@ -1,6 +1,6 @@
 - 👋 Hi, @im-hbelev
 - 👀 I’m interested in develop software
-- 🌱 I’m currently learning java, REST API's and more
+- 🌱 I’m currently learning Java, REST API's with DropWizard and much more useful tools and technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
